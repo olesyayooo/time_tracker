@@ -1,0 +1,16 @@
+.git
+.env
+.env.*
+!.env.example
+build
+cmake-build-*
+uploads
+.vscode
+.agents
+.codex
+.aws
+.cache
+.DS_Store
+**/.DS_Store
+**/__pycache__
+**/*.pyc
